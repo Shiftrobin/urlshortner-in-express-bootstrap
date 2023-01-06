@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("636f6738cb95c929402487cc"),
+    "clicks" : NumberInt(0),
+    "full" : "https://google.com",
+    "short" : "vjyDaakNf",
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("636f67b8cb95c929402487cd"),
+    "clicks" : NumberInt(0),
+    "full" : "https://facebook.com",
+    "short" : "5JiSyXBDT",
+    "__v" : NumberInt(0)
+}
